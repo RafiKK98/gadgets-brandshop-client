@@ -1,6 +1,5 @@
-# Assignment 10
 
-## Brand Shop site using React, React router, Firebase and MongoDB
+# Gadgets Brand Shop site using React, React router, Firebase and MongoDB
 
 
 Features:
@@ -14,5 +13,5 @@ Features:
 
 Repo and site links:
 - Live site: [https://gadgets-brand-shop.web.app/](https://gadgets-brand-shop.web.app/)
-- Client site repo: [https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-RafiKK98](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-RafiKK98)
-- Server site repo: [https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-RafiKK98](https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-RafiKK98)
+- Client site repo: [https://github.com/RafiKK98/gadgets-brandshop-client](https://github.com/RafiKK98/gadgets-brandshop-client)
+- Server site repo: [https://github.com/RafiKK98/gadgets-brandshop-server](https://github.com/RafiKK98/gadgets-brandshop-server)
