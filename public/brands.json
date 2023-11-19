@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "brand":"Apple",
+        "img":"https://i.ibb.co/cYNvj7f/apple-logo.webp"
+    },
+    {
+        "id": 2,
+        "brand":"Samsung",
+        "img":"https://i.ibb.co/RNJn3mz/Samsung-Logo.webp"
+    },
+    {
+        "id": 3,
+        "brand":"MI",
+        "img":"https://i.ibb.co/9nX1NSD/mi-logo.webp"
+    },
+    {
+        "id": 4,
+        "brand":"Vivo",
+        "img":"https://i.ibb.co/FbHGzPG/vivo-logo.webp"
+    },
+    {
+        "id": 5,
+        "brand":"Oppo",
+        "img":"https://i.ibb.co/9tR5vHy/oppo-logo.webp"
+    },
+    {
+        "id": 6,
+        "brand":"Oneplus",
+        "img":"https://i.ibb.co/JzfvYHy/one-plus-logo.webp"
+    }
+]

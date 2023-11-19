@@ -1,0 +1,48 @@
+[
+    {
+        "brand_name": "Apple",
+        "image_array": [
+            "https://i.ibb.co/Gt0tvmj/Apple-Advert1.jpg",
+            "https://i.ibb.co/p6HznFN/Apple-Advert2.jpg",
+            "https://i.ibb.co/2kh186x/Apple-Advert3.jpg"
+        ]
+    },
+    {
+        "brand_name": "Samsung",
+        "image_array": [
+            "https://i.ibb.co/k9brH47/Samsung-Advert1.jpg",
+            "https://i.ibb.co/dDcpyH1/Samsung-Advert2.jpg",
+            "https://i.ibb.co/TKsMJ5N/Samsung-Advert3.webp"
+        ]
+    },
+    {
+        "brand_name": "MI",
+        "image_array": [
+            "https://i.ibb.co/CP9N766/Xiaomi-Advert1.jpg",
+            "https://i.ibb.co/LgLV7gF/Xiaomi-Advert2.jpg",
+            "https://i.ibb.co/ydkxxYr/Xiaomi-Advert3.jpg"
+        ]
+    },
+    {
+        "brand_name": "Vivo",
+        "image_array": [
+            "https://i.ibb.co/5LrZbk6/Vivo-Advert1.webp",
+            "https://i.ibb.co/h9379PL/Vivo-Advert2.jpg",
+            "https://i.ibb.co/n0gydCD/Vivo-Advert3.jpg"
+        ]
+    },
+    {
+        "brand_name": "Oppo",
+        "image_array": [
+
+        ]
+    },
+    {
+        "brand_name": "Oneplus",
+        "image_array": [
+            "https://i.ibb.co/KLHcQtW/One-Plus-Advert1.jpg",
+            "https://i.ibb.co/qgg4fPr/One-Plus-Advert2.jpg",
+            "https://i.ibb.co/Vpvnrn9/One-Plus-Advert3.jpg"
+        ]
+    }
+]
