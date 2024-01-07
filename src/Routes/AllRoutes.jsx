@@ -35,22 +35,22 @@ const router = createBrowserRouter([
       {
         path: '/update-product/:productId',
         element: <PrivateRoute><UpdateProduct /></PrivateRoute>,
-        loader: ({params}) => fetch(`https://gadgets-brand-shop-server-1ci9qmx4f-rafikk98.vercel.app/products/${params.productId}`)
+        loader: ({params}) => fetch(`https://gadgets-brandshop-server.vercel.app/products/${params.productId}`)
       },
       {
         path: '/my-cart',
         element: <PrivateRoute><MyCart /></PrivateRoute>,
-        loader: () => fetch('https://gadgets-brand-shop-server-1ci9qmx4f-rafikk98.vercel.app/cart')
+        loader: () => fetch('https://gadgets-brandshop-server.vercel.app/cart')
       },
       {
         path: '/brand-products/:brandName',
         element: <BrandProducts />,
-        loader: () => fetch('https://gadgets-brand-shop-server-1ci9qmx4f-rafikk98.vercel.app/products'),
+        loader: () => fetch('https://gadgets-brandshop-server.vercel.app/products'),
       },
       {
         path: '/product-details/:productId',
         element: <PrivateRoute><ProductDetails /></PrivateRoute>,
-        loader: ({params}) => fetch(`https://gadgets-brand-shop-server-1ci9qmx4f-rafikk98.vercel.app/products/${params.productId}`)
+        loader: ({params}) => fetch(`https://gadgets-brandshop-server.vercel.app/products/${params.productId}`)
       },
     ],
     errorElement: <Error404Page />
